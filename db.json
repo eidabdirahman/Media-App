@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "ca59",
+      "name": "Frank Connelly"
+    },
+    {
+      "id": "a1fa",
+      "name": "Lorena Wisoky"
+    }
+  ],
+  "albums": [
+    {
+      "id": "d06c",
+      "userId": "ca59",
+      "title": "Generic Metal Towels"
+    },
+    {
+      "id": "87f2",
+      "userId": "ca59",
+      "title": "Unbranded Plastic Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "b80e",
+      "albumId": "d06c",
+      "url": "https://loremflickr.com/150/150/nature?lock=40221"
+    },
+    {
+      "id": "9cba",
+      "albumId": "d06c",
+      "url": "https://loremflickr.com/150/150/nature?lock=28040"
+    },
+    {
+      "id": "94b0",
+      "albumId": "87f2",
+      "url": "https://loremflickr.com/150/150/nature?lock=12814"
+    },
+    {
+      "id": "f70b",
+      "albumId": "87f2",
+      "url": "https://loremflickr.com/150/150/nature?lock=50400"
+    },
+    {
+      "id": "7421",
+      "albumId": "87f2",
+      "url": "https://loremflickr.com/150/150/nature?lock=48426"
+    }
+  ]
+}
